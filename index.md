@@ -1,14 +1,26 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SeanCheng1996/SeanCheng1996/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Yself intro.
+connection
 
 ## Projects
 
 ### Classify a movie with its poster and description using BERT, CNN and FiLM
 balabalaba some desc.
 here is the link to the repo.
+
+
+## Scripts
+
+### Linear Regression
+balabalaba some desc.
+here is the link to the repo.
+
+### SVM
+kernel trick, intuition
+
+## Publications
+### 1. link
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
