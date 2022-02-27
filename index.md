@@ -4,7 +4,11 @@ You can use the [editor on GitHub](https://github.com/SeanCheng1996/SeanCheng199
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Projects
+
+## Classify a movie with its poster and description using BERT, CNN and FiLM
+balabalaba some desc.
+here is the link to the repo.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
