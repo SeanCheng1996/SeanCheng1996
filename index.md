@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Yself intro.
+Self intro.
 connection
 
 ## Projects
