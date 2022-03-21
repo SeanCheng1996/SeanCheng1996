@@ -58,6 +58,7 @@ In this project, I generate text without limitation using LSTM with **[Multi30k 
 
 
 
+&nbsp;
 
 ## 2. Machine Learning Scripts
 
@@ -84,6 +85,7 @@ From the intuition of kernel trick to kernel method and kernelize linear regress
 Support vector machine intuition and details.
 
 
+&nbsp;
 
 ## 3. Publications
 
