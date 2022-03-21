@@ -8,11 +8,11 @@ Master student of Computer Science at Rice University  (2021-present).
 
 Master and Bachelor's degree of ECE at Chongqing University, China (2014-2021).
 
+&nbsp;
 
+## 1. [Neural Network Projects](https://github.com/SeanCheng1996/Nerual-network-projects)
 
-## 1. Neural Network Projects
-
-### 1.1 [Identify multimodal hate speech using hateful memes dataset(in progress)]()
+### 1.1 [Identify multimodal hate speech using hateful memes dataset(in progress)](https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/)
 
 
 
@@ -21,7 +21,7 @@ Master and Bachelor's degree of ECE at Chongqing University, China (2014-2021).
 
 
 
-### 1.3 [Classify a movie with its poster and description using BERT, CNN and FiLM]()
+### 1.3 [Classify a movie with its poster and description using BERT, CNN and FiLM](https://github.com/SeanCheng1996/Nerual-network-projects/blob/main/Movie%20Classification(CNN%2C%20BERT%2C%20FiLM).ipynb)
 
 It's a class project during Rice university.
 
@@ -46,7 +46,7 @@ The breif summary of the above models:
 
 
 
-### 1.4 [Generating text using LSTM and CLIP-based Classification]()
+### 1.4 [Generating text using LSTM and CLIP-based Classification](https://github.com/SeanCheng1996/Nerual-network-projects/blob/main/Text%20Generation%20and%20Image%20Captions(LSTM%2BCLIP).ipynb)
 
 It's a class project during Rice University.
 
@@ -56,9 +56,8 @@ In this project, I generate text without limitation using LSTM with **[Multi30k 
 
 
 
-
-
 &nbsp;
+
 
 ## 2. Machine Learning Scripts
 
@@ -83,6 +82,7 @@ From the intuition of kernel trick to kernel method and kernelize linear regress
 ### 2.5 [SVM(sparse kernel).pdf](https://github.com/SeanCheng1996/ML_scripts/blob/main/5.%20SVM(sparse%20kernel).pdf)
 
 Support vector machine intuition and details.
+
 
 
 &nbsp;
