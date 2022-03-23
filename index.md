@@ -17,7 +17,7 @@ Master and Bachelor's degree of ECE at Chongqing University, China (2014-2021).
 
 
 ### 1.2 [Pets Pawpularity prediction (in progress)](https://www.kaggle.com/c/petfinder-pawpularity-score/data)
-
+The dataset has both text and image, So I'm now trying to use CLIP here. And I've read some of the solution on Kaggle, I found the first solution just used the image feature, So I'll try to find out if I can make it better.
 
 
 
