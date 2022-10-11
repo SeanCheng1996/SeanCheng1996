@@ -2,7 +2,7 @@
 
 
 
-**Sean Cheng| (+1) 346-473-1515| sc159@rice.edu**
+**Sean Cheng| (+1) 346-473-1515| sc159@rice.eduu**
 
 Master student of Computer Science at Rice University  (2021-present).
 
